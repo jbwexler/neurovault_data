@@ -1,0 +1,38 @@
+[
+{
+    "fields": {
+        "username": "neurovault",
+        "first_name": "",
+        "last_name": "",
+        "is_active": true,
+        "is_superuser": false,
+        "is_staff": false,
+        "last_login": "2015-02-24T18:30:28.478Z",
+        "groups": [],
+        "user_permissions": [],
+        "password": "pbkdf2_sha256$15000$Gkgf6rY0KKkO$lGlN957eLRvQ/7VMM2VXSSPx8nEEKqD4t5WayARGXJw=",
+        "email": "neurovault@gmail.com",
+        "date_joined": "2015-02-24T18:30:27.420Z"
+    },
+    "model": "auth.user",
+    "pk": 1
+},
+{
+    "fields": {
+        "username": "neurovault2",
+        "first_name": "",
+        "last_name": "",
+        "is_active": true,
+        "is_superuser": false,
+        "is_staff": false,
+        "last_login": "2015-02-24T18:31:05.436Z",
+        "groups": [],
+        "user_permissions": [],
+        "password": "pbkdf2_sha256$15000$W5DV5aNbLTQ4$O+9O9Guv941b71Nij9nfz2WcY8wPEYn9H+DRFA6YZKk=",
+        "email": "neurovault2@gmail.com",
+        "date_joined": "2015-02-24T18:31:05.071Z"
+    },
+    "model": "auth.user",
+    "pk": 2
+}
+]
